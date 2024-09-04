@@ -1,0 +1,7 @@
+function myfunc() {
+  console.log("this is a function");
+}
+
+function feature() {
+  console.log("this is new function");
+}

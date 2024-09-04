@@ -1,0 +1,13 @@
+function myfunc() {
+  console.log("this is a function");
+}
+console.log("this is a function");
+
+function Bfeature() {
+  console.log("this is new function");
+  console.log("this is new function");
+}
+function cfeature() {
+  console.log("this is new function");
+  console.log("this is new function");
+}
